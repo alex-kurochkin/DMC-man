@@ -1,0 +1,8 @@
+```
+# PDF and documentation files
+*.pdf
+*.PDF
+
+# Text files that might contain extracted/manual content
+*.txt
+```
